@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-ColinBaylis
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-ColinBaylis
 
